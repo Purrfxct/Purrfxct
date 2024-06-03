@@ -6,7 +6,7 @@
   - PHP
   - IRC
   - Electronic gadgets (ESP32, Pi, etc...)
-  - 
+    
 - 🌱 I’m currently learning:
   - Anything I can get my hands on.
     
